@@ -20,10 +20,10 @@ PROFESSOR PROBLEMS?
 
 -->
 
-# cs203-S2019-lab2-starter
+# cs203-S2019-lab3-starter
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this
-repository contains the starter for Lab 2 in Computer Science 203. Since the
+repository contains the starter for Lab 3 in Computer Science 203. Since the
 Travis builds for this repository will initially fail (as evidenced by a red
 &#x2717; appearing in the commit logs instead of a green &#x2714;), the
 programmer is responsible for completing all of the steps needed to satisfy the
@@ -35,7 +35,7 @@ the commit logs.
 This assignment requires a programmer to implement, document, and automatically
 test a Python program called
 [GatorGrouper](https://github.com/GatorEducator/gatorgrouper). This repository
-should contains the `conduct.md`, `assessment.md`, and `report.md` files that
+should contain the `conduct.md`, `assessment.md`, and `report.md` files that
 respectively contain a statement indicating that you adhered to the code of
 conduct, an assessment of the work that you completed this week for the
 long-term software project, and a report that further documents your work. To
@@ -49,7 +49,8 @@ Importantly, the purpose of this repository is only to document and evaluate the
 work that you complete in the
 [GatorGrouper](https://github.com/GatorEducator/gatorgrouper) repository.
 Students who do not understand how to copy-over or fill-in these files should
-immediately speak with the course instructor.
+speak with the course instructor. Please refer to the `report.md` file for
+additional details about how to report on and evaluate your work.
 
 When you use the `git commit` command to transfer your source code to your
 GitHub repository, [Travis CI](https://travis-ci.com/) will initialize a build
