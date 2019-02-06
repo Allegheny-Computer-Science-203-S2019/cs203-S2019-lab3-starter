@@ -11,9 +11,9 @@ finished on GitHub. Please also note that:
 
 * After copying over the `assessment.md` file either from either the previous
   week's repository or from the main repository, you should evaluate yourself
-  according to all criteria. The instructor will assume that your evaluation
-  level is "N" if you have not yet completed work for a category. Once you
-  assess yourself for a specific professional or technical skill, you should
-  furnish evidence that supports your current assessment. As you continue to
-  work on the software project, you can adjust your assessment and add more
+  according to all relevant criteria. The instructor will assume that your
+  evaluation level is "N" if you have not yet completed work for a category.
+  Once you assess yourself for a specific professional or technical skill, you
+  should furnish evidence that supports your current assessment. As you continue
+  to work on the software project, you can adjust your assessment and add more
   evidence. Please see the course instructor with assessment questions.
